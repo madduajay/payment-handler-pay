@@ -1,0 +1,8 @@
+{
+    "name": "SW2 Payment Handler",
+    "icons": [{
+        "src": "2.png",
+        "sizes": "600x600",
+        "type": "image/png"
+    }]
+}
