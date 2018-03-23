@@ -4,5 +4,9 @@
         "src": "2.png",
         "sizes": "600x600",
         "type": "image/png"
-    }]
+    }],
+    "serviceworker": {
+        "src": "sw1.js",
+        "use_cache": false
+    }
 }
