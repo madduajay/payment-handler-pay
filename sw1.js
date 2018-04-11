@@ -9,6 +9,7 @@ self.addEventListener('paymentrequest', (evt) => {
         methodName: 'https://pacific-garden-30467.herokuapp.com/pay3',
         details: {
             token: '98700890000',
+
         },
     });
 });
